@@ -96,6 +96,10 @@ h1:hover {
   align-items: center;
   gap: 0.6rem;
   margin-top: 1.25rem;
+}
+
+h2 {
+  font-size: 1.1rem;
   font-weight: 800;
 }
 
