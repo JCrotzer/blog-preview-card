@@ -24,7 +24,7 @@ body {
 }
 
 main {
-  width: 21.6rem;
+  width: 23.4rem;
   height: 32.5rem;
   border-radius: 1.25rem;
   background-color: var(--white);
@@ -72,13 +72,13 @@ main {
   font-weight: 800;
 }
 
-h2 {
+h1 {
   font-size: 22px;
   font-weight: 800;
   margin-top: 18px;
 }
 
-h2:hover {
+h1:hover {
   color: var(--yellow);
   cursor: pointer;
 }
@@ -100,6 +100,6 @@ h2:hover {
 }
 
 .author-info img {
-  width: 30%;
-  height: 30%;
+  width: 25%;
+  height: 25%;
 }
